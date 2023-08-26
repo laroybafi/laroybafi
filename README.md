@@ -1,4 +1,5 @@
 ### Hi 👋, I'm Ahmad laroy Bafi
+Graduate with a Bachelor of Science in Information Systems. Skilled in IT project management, UI/UX design, and software development. Adept in using programming languages such as Python, Javascript and PHP. Knowledgeable in various IS technologies and methodologies, including data analytics, ERP, and SDLC. Seeking to leverage my education and skills in a challenging and dynamic work environment.
 
 ## :fire: My Stats :
 <p>
